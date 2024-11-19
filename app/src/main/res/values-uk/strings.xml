@@ -4,7 +4,7 @@
 	<string name="share">Поділитися</string>
 	<string name="more_options">Більше</string>
 	<string name="store_scope">Зберегти екран</string>
-	<string name="toggle_mode">Зафікаувати режим</string>
+	<string name="toggle_mode">Зафіксувати режим</string>
 	<string name="auto_mode">Автоматичний</string>
 	<string name="lock_mode">Вибір режима</string>
 	<string name="raw_mode">Без обробки</string>
